@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@taquito/beacon-wallet": "^17.0.0",
+    "@taquito/beacon-wallet": "^17.5.2",
     "@taquito/taquito": "^17.0.0",
     "qrcode-generator": "^1.4.4",
     "stream-browserify": "^3.0.0",
